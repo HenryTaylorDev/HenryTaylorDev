@@ -1,13 +1,13 @@
 👋 Hi, I’m Henry
 
-I'm a JavaScript developer 
+I'm a JavaScript developer who enjoys making user-focused, beautiful applications that help make the world a nicer place to live
 
-Feast your eyes on my graveyard of half finished projects
-
-Hang tight though...I am working on something interesting
+Hang tight...I am working on something interesting
 
 Feel free to contact me:
 
 [LinkedIn](https://www.linkedin.com/in/henrytaylor2024/)
 [Instagram](https://www.instagram.com/henryjmtee/)
+[Website](https://www.taylordev.co)
+
 
